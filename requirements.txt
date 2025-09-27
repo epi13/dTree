@@ -1,0 +1,8 @@
+# Directory Tree Exporter Dependencies
+# All dependencies are Python standard library (Python 3.6+)
+
+# For development/testing (optional):
+pytest>=7.0.0
+mypy>=1.0.0
+black>=22.0.0
+flake8>=4.0.0
